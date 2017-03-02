@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://mmz0717.github.io/"/>
   <updated>2016-12-28T12:33:43.507Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://mmz0717.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/12/28/hello-world/"/>
-    <id>http://yoursite.com/2016/12/28/hello-world/</id>
+    <link href="http://mmz0717.github.io/2016/12/28/hello-world/"/>
+    <id>http://mmz0717.github.io/2016/12/28/hello-world/</id>
     <published>2016-12-28T12:18:13.494Z</published>
     <updated>2016-12-28T12:33:43.507Z</updated>
     
