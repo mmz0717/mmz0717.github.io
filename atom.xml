@@ -4,9 +4,9 @@
   <subtitle>今天心情好 不上班</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://www.rockcode.cn/"/>
   <updated>2017-03-08T05:07:10.071Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://www.rockcode.cn/</id>
   
   <author>
     <name>马明枝</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>始于hexo</title>
-    <link href="http://yoursite.com/2017/03/03/%E5%A7%8B%E4%BA%8Ehexo/"/>
-    <id>http://yoursite.com/2017/03/03/始于hexo/</id>
+    <link href="http://www.rockcode.cn/2017/03/03/%E5%A7%8B%E4%BA%8Ehexo/"/>
+    <id>http://www.rockcode.cn/2017/03/03/始于hexo/</id>
     <published>2017-03-03T09:20:51.000Z</published>
     <updated>2017-03-08T05:07:10.071Z</updated>
     
